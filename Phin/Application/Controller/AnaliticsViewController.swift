@@ -22,20 +22,7 @@ class AnaliticsViewController: UIViewController, ChartViewDelegate {
     
     override func viewDidLayoutSubviews() {
         
-        //CodeOne
-        //
-        //dfdfsdf
-        //
-        
-        
-        
-        
-        // code 2 new
-        
-//        rthrerhdfhdfghjdghj
-//        sfghdfghdgfhdfghdfh
-//        fgsdgsfgsfgsdfg
-        //
+        //git
         
         
         pieChart.frame = CGRect(x: 0, y: 0, width: self.chartsView.frame.size.width, height: self.chartsView.frame.size.height)
