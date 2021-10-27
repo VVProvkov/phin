@@ -30,10 +30,11 @@ class AnaliticsViewController: UIViewController, ChartViewDelegate {
         
         
         
-        // code 2
+        // code 2 new
         
-        
-        
+//        rthrerhdfhdfghjdghj
+//        sfghdfghdgfhdfghdfh
+//        fgsdgsfgsfgsdfg
         //
         
         
