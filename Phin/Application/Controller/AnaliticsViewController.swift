@@ -23,7 +23,7 @@ class AnaliticsViewController: UIViewController, ChartViewDelegate {
     override func viewDidLayoutSubviews() {
         
         //git
-        
+        // git 2
         
         pieChart.frame = CGRect(x: 0, y: 0, width: self.chartsView.frame.size.width, height: self.chartsView.frame.size.height)
         pieChart.center = chartsView.center
