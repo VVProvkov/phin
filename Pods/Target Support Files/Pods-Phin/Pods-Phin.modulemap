@@ -1,0 +1,6 @@
+framework module Pods_Phin {
+  umbrella header "Pods-Phin-umbrella.h"
+
+  export *
+  module * { export * }
+}
